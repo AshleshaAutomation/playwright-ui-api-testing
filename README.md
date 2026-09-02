@@ -1,6 +1,6 @@
 # Playwright UI & API Testing
 
-A QA automation portfolio project built with **Playwright and TypeScript** to demonstrate modern testing practices across UI, API, accessibility, and CI/CD.
+Playwright TypeScript automation project demonstrating UI, API and end-to-end testing using Page Object Model and structured test automation.
 
 ## What this project demonstrates
 
